@@ -544,4 +544,5 @@ func (kv *ShardKV) routeApplyMsg() {
 
 ### 后记
 接下来把6.S081和CMU15-445的笔记补上，再搞搞TinyKV就收工。有空的话会考虑优化Raft和ShardKV的实现。查询操作都写进raft的log，这也太拉了。
+知乎的markdown导入也忒难用了吧...
 
